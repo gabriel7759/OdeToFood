@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OdeToFood.Core
+﻿namespace OdeToFood.Core
 {
-    class Restaurant
+    public class Restaurant
     {
         public int Id { get; set; }
         public string Name { get; set; }
