@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
-      "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectName": "OdeToFood.Data",
+      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,9 +58,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

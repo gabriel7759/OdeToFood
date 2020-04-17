@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
-        "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
