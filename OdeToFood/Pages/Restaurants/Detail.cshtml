@@ -1,4 +1,5 @@
 ﻿@page "{restaurantId:int}"
+@using Microsoft.VisualStudio.Web.CodeGeneration.Contracts.Messaging
 @model OdeToFood.Pages.Restaurants.DetailModel
 @{
     ViewData["Title"] = "Detail";
@@ -14,4 +15,10 @@
 <div>
 	Cuisine: @Model.Restaurant.Cuisine
 </div>
+
+@if (Model.Message != null)
+{
+	<div class="alert alert-info">@Model.Message</div>
+}
+
 <a asp-page="./List" class="btn btn-default">All Restaurants</a>
